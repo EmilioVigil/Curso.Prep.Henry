@@ -1,0 +1,22 @@
+Variables: Basicamente una variable es una forma de guardar o almacenar algun tipo de dato, como por ejemplo 
+un nombre, un numero, una direccion lo que sea que querramos guardar. Para crear una variable en este caso hay 
+que usar una palabra clave antes del nombre, seguido de un signo = y el valor que querramos poner.
+var nombre = 'Jose'
+
+Strings: Es un tipo de dato para el lenguaje de programacion, pueden variar los tipos segun el lenguaje.
+En este caso que hacemos referencia a los strings, es un bloque de texto, que siempre se tienen que poner entre
+comillas simples '' o dobles "", como por ejemplo:
+var cadena = 'Hola juan carlos'
+
+Funciones (argumentos, return): Las funciones son acciones que pueda realizar mi programa, sirven para poder ser reutilizadas
+en algun momento y no tener que repetir codigo para volver hacer lo mismo. Dentro de las funciones nos podemos 
+encontrar con argumentos que son valores que puede tomar fuera de la funcion, el valor de ese argumento 
+nos servira para realizar algun tipo de accion que necesitemos datos del exterior. Y otro elemento de la funcion,
+es return (retornar) que nos servira si queremos retornar algun tipo de valor fuera de la funcion y que pueda ser utilizado
+en otra parte del programa.
+
+Declaraciones if: Es una condicion, en la que puede tomar dos caminos, true y false, se analiza una condicion a traves
+de comparadores logicos (<;>,<=,||,etc..) y de ahi se realiza o no una accion dependiendo de su valor logico. 
+
+Valores booleanos (true, false): los valores booleanos se basan en dos posibilidades, en dos caminos o como quieras 
+identificarlo, en el cual pueda ir una accion, puede ser falso(false), o verdadero (true).
