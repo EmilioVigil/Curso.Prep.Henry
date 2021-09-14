@@ -1,0 +1,16 @@
+for: El for es un tipo de ciclo repetitivo, donde ejecutas una accion. Esa accion se va repetir
+una cierta cantidad de veces dependiendo la condicion que tenga el ciclo for para que siga.
+Basicamente si la condicion es true (verdadera) seguira corriendo el ciclo hasta que sea 
+false (falsa). 
+
+&&: Es un operador logico  AND (Y) que compara dos expresiones, en lo cual si o si tienen que 
+cumplirse las dos expresiones para que devuelva un true(verdadero), en caso contrario devolvera 
+un false (falso).
+
+||: Es un operador logico OR (o), escrito con dos barras verticales en este caso, funciona 
+comparando dos expresiones, si una expresion es verdadera el operador devuelve un true(verdadero).
+Solo devolvera un false si las dos expresiones son falsas.
+
+!: Es un operador logico NOT (no), escrito con un signo de exclamacion, este operador funciona
+devolviendo el resultado logico contrario a la expresion. 
+Por ejemplo si la expresion es true y hay un not(!) la condicion finalmente devolvera un false. 
