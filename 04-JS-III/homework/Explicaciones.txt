@@ -1,0 +1,7 @@
+Arrays: Un array, matriz o arreglo, es una forma de almacenamiento mucho mayor a que una 
+variable simple que almacena un valor. En este caso, con los array podemos guardar muchos 
+tipos de valores sin importar que sean un string, numeros o valores booleanos. 
+Por ejemplo:
+
+var array = ["Jose",2,4,true];
+
