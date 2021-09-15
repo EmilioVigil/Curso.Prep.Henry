@@ -3,5 +3,5 @@ variable simple que almacena un valor. En este caso, con los array podemos guard
 tipos de valores sin importar que sean un string, numeros o valores booleanos. 
 Por ejemplo:
 
-var array = ["Jose",2,4,true];
+var array = ["Jose",2,4,true]; 
 

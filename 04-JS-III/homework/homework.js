@@ -237,7 +237,7 @@ function continueStatement(numero) {
   var nuevoArray = [];
 
   for(var i=1 ; i <= 10 ; i++){
-    if( i === 5){
+    if( i === 5) {
       continue;
     }
     numero = numero + 2;
