@@ -1,0 +1,22 @@
+Objetos: un objeto es una entididad de la vida real. Ese mismo objeto contiene atributos 
+que lo definen, como por ejemplo una pelota, tiene propiedades como es redonda,dura,color,
+diseño,etc... 
+
+Propiedades : son lo que caracteriza al objeto.
+
+Metodos: Basicamente los metodos son funcionalidades que puede hacer un objeto para retornar
+algun tipo de informacion o valor. 
+
+Bucle for…in: Para reccorer el objeto y cada propiedad que contiene, utilizaremos la sintaxis
+for loop, que trata de declarar una variable, utilizar la palabra clave "in" y luego el 
+nombre del objeto.
+
+for(var clave in nomreDelObjeto){
+}
+
+Notación de puntos vs notación de corchetes: La notacion de puntos se basa en llamar 
+al objeto utilizando un punto, como si se estuviese llamando a una propiedad o funcion.
+Como por ejemplo: objeto.PropiedadObjeto
+En cambio la notacion de corchetes es como llamar a un elemento de una matriz, con corchetes
+tenemos que usar una cadena o crear una variable que apunte a una cadena o numero.
+objeto["propiedad"]. Las dos son validas
