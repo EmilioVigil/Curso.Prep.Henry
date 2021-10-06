@@ -1,0 +1,12 @@
+prototype:
+Cuando queremos crear un objeto en una clase, este objeto se creara con los atributos y metodos
+que tiene esa clase, pero lo negativo sera que cuando lo creemos, se crearan repetitivamente 
+los metodos. Esto lo podemos solucionar con la funcionalidad de prototype.
+Utilzando prototype podremos crear los metodos de las clases, y solo se escribira el codigo
+una sola vez, por ende, cada vez que creeemos un objeto ya tendra sus metodos de la misma 
+clase sin repetir codigo.
+
+constructor (clases):
+Es un metodo o funcion, para establecer de entrada los atributos de un objeto.
+
+
